@@ -38,7 +38,6 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
-    
 }
 
 .container {
@@ -102,6 +101,11 @@ body {
     padding-right: 50px;
     font-size: 100%;
     color: white;
+}
+
+.portfolio__li a:hover{
+    opacity: 1;
+    color: yellowgreen;
 }
 
 .why_choose_us_icons{
